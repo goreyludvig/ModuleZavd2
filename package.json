@@ -11,7 +11,7 @@
     "fix": "(if not exist data md data ) & \"C:/Program Files/MongoDb/Server/4.2/bin/mongod.exe\" --repair --dbpath data"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.9.6",
     "nodemon": "^2.0.2"
   },
